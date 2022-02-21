@@ -4,14 +4,10 @@
 
 
 
-https://heroku.com/deploy?template=https://github.com/NishNishendanidu/Sketchy.git
-A- 👋 Hi, I’m @NishNishendanidu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232400FF&size=30&multiline=true&width=999&height=90&lines=Welcome+to+my+profile+;Nishen+Danidu+%5Bshen+bro%5D)](https://git.io/typing-svg)
+
 
 <!---
 NishNishendanidu/NishNishendanidu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->https://heroku.com/deploy?template=https://github.com/NishNishendanidu/Sketchy.git
+--->
